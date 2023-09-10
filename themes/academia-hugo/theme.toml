@@ -2,7 +2,7 @@ name = "Academia Hugo"
 license = "MIT"
 licenselink = "https://github.com/themefisher/academia-hugo/blob/master/LICENSE.md"
 description = "The website builder for Hugo. Build *anything* with widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
-homepage = "https://gethugothemes.com/products/academia/"
+homepage = "https://socialmedia-marketing.netlify.app/"
 demosite = "https://demo.gethugothemes.com/academia/"
 min_version = "0.115.1"
 tags = ["widgets",
@@ -43,10 +43,10 @@ features = ["page builder", "widgets", "themes", "search", "research publication
 
 [author]
   name = "Themefisher"
-  homepage = "https://themefisher.com"
+  homepage = "https://socialmedia-marketing.netlify.app/"
 
 # If porting an existing theme
 [original]
   name = "academic"
-  homepage = "https://sourcethemes.com/academic/"
+  homepage = "https://socialmedia-marketing.netlify.app/"
   repo = "https://github.com/gcushen/hugo-academic"
