@@ -38,9 +38,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/icreatesolutions.tech
-- icon: chart
+- icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/shana-jimenez-a5b475195/
 superuser: true
 user_groups:
 - Researchers
