@@ -30,7 +30,7 @@ organizations:
 role: Social Media Analyst
 social:
 - icon: x-twitter
-  icon_pack: fab
+  icon_pack: fas
   link: https://twitter.com/lalalgorithms
 - icon: instagram
   icon_pack: fab
