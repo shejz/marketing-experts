@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on Academia</title>
-    <link>https://gethugothemes.com/academia/site/categories/r/</link>
+    <link>https://socialmedia-marketing.netlify.app/categories/r/</link>
     <description>Recent content in R on Academia</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
     
-	    <atom:link href="https://gethugothemes.com/academia/site/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://socialmedia-marketing.netlify.app/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://gethugothemes.com/academia/site/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://socialmedia-marketing.netlify.app/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://socialmedia-marketing.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -54,7 +54,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://gethugothemes.com/academia/site/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://socialmedia-marketing.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
