@@ -50,6 +50,6 @@ user_groups:
 
 As a Social Media analyst specialized in digital marketing, I have a passion for uncovering hidden patterns and insights within complex datasets. Transform raw information into actionable strategies that drive successful marketing business.
 
-![reviews](../../img/roi.png)
+![reviews](../../img/roi.svg)
 
 Unraveling insights and trends to help businesses optimize their online presence, ROI, reduce the cost and driving impactful marketing decisions that lead to tangible financial gains.
