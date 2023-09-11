@@ -2,8 +2,7 @@
 authors:
 - admin
 avatar_image: smm.gif
-bio: My research interests include digital marketing performace, business analytics
-  matter.
+bio: My research interests include digital marketing performace, business analytics matter.
 btn:
 - label: Download Resume
   url: https://sourcethemes.com/academic/docs/install/
@@ -30,25 +29,25 @@ organizations:
   url: ""
 role: Social Media Analyst
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/lalalgorithms
+- icon: instagram
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.instagram.com/io_oicreate/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/icreatesolutions.tech
+- icon: chart-simple
+  icon_pack: fad
+  link: https://twitter.com/lalalgorithms
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-As a Social Media analyst specialized in digital marketing, I have a passion for uncovering hidden patterns and insights within complex datasets. Transform raw information into actionable strategies that drive successful marketing business.
+As a Data analyst specialized in social media marketing, I have a passion for uncovering hidden patterns and insights within complex datasets. Transform raw information into actionable strategies that drive successful marketing business.
 
 ![reviews](../../img/roi.svg)
 

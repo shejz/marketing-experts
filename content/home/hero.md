@@ -42,6 +42,7 @@ hero_media = "me.gif"
   label = "Contact me"
 
 +++
-## My name is **Shiela Jimenez** and I'm a **Data Analyst** specializing in **Social Media Marketing**
+## **HELLO!** my name is **Shiela Jimenez** and I'm here for your **Business** 
+
 
 Through comprehensive data analysis, I identify key issues and offer customized solutions that optimize social marketing endeavors and overcome clients’ toughest challenges, and pave the way for remarkable success.
