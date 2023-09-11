@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academia</title>
-    <link>https://gethugothemes.com/academia/site/</link>
+    <link>https://socialmedia-marketing.netlify.app/</link>
     <description>Recent content on Academia</description>
-    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <generator>Source Themes academia (https://socialmedia-marketing.netlify.app/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://gethugothemes.com/academia/site/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://socialmedia-marketing.netlify.app/public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://gethugothemes.com/academia/site/talk/</link>
+      <link>https://socialmedia-marketing.netlify.app/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/talk/</guid>
+      <guid>https://socialmedia-marketing.netlify.app/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://gethugothemes.com/academia/site/post/</link>
+      <link>https://socialmedia-marketing.netlify.app/post/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/post/</guid>
+      <guid>https://socialmedia-marketing.netlify.app/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://gethugothemes.com/academia/site/courses/</link>
+      <link>https://socialmedia-marketing.netlify.app/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/courses/</guid>
+      <guid>https://socialmedia-marketing.netlify.app/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://gethugothemes.com/academia/site/publication/</link>
+      <link>https://socialmedia-marketing.netlify.app/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/publication/</guid>
+      <guid>https://socialmedia-marketing.netlify.app/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://gethugothemes.com/academia/site/slides/</link>
+      <link>https://socialmedia-marketing.netlify.app/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/slides/</guid>
+      <guid>https://socialmedia-marketing.netlify.app/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://gethugothemes.com/academia/site/project/</link>
+      <link>https://socialmedia-marketing.netlify.app/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://gethugothemes.com/academia/site/project/</guid>
+      <guid>https://socialmedia-marketing.netlify.app/project/</guid>
       <description></description>
     </item>
     
