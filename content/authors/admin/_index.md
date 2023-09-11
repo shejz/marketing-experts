@@ -9,15 +9,15 @@ btn:
 display_education: false
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor of Computer Engineering
+    institution: Jose Rizal University
+    year: 2005-2009
+  - course: Certified Nutrition
+    institution: Food Matters Institute
+    year: 2022
+  - course: Health Science
+    institution: University of the People
+    year: 2023-Present
 email: ""
 interests:
 - Marketing Analytics
@@ -29,8 +29,8 @@ organizations:
   url: ""
 role: Social Media Analyst
 social:
-- icon: x-twitter
-  icon_pack: fas
+- icon: twitter
+  icon_pack: fab
   link: https://twitter.com/lalalgorithms
 - icon: instagram
   icon_pack: fab
@@ -38,9 +38,9 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/icreatesolutions.tech
-- icon: chart-simple
-  icon_pack: fad
-  link: https://twitter.com/lalalgorithms
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/shana-jimenez-a5b475195/
 superuser: true
 user_groups:
 - Researchers
