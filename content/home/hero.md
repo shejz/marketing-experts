@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Academia"
+title = "Social Media Marketer"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "me.gif"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,6 +42,6 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## My name is **Shiela Jimenez** and I'm a **Data Analyst** specializing in **Social Media Marketing**
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+Through comprehensive data analysis, I identify key issues and offer customized solutions that optimize social marketing endeavors and overcome clients’ toughest challenges, and pave the way for remarkable success.
