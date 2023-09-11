@@ -29,7 +29,7 @@ organizations:
   url: ""
 role: Social Media Analyst
 social:
-- icon: twitter
+- icon: x-twitter
   icon_pack: fab
   link: https://twitter.com/lalalgorithms
 - icon: instagram
