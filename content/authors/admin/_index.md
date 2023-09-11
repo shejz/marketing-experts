@@ -1,8 +1,8 @@
 ---
 authors:
 - admin
-avatar_image: user-full.png
-bio: My research interests include distributed robotics, mobile computing and programmable
+avatar_image: smm.gif
+bio: My research interests include digital marketing performace, business analytics
   matter.
 btn:
 - label: Download Resume
@@ -21,14 +21,14 @@ education:
     year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Michael Vahn
+- Marketing Analytics
+- Social Media
+- Graphics and Design
+name: Shiela Jimenez
 organizations:
-- name: Stanford University
+- name: Digital Marketing 
   url: ""
-role: Professor of Artificial Intelligence
+role: Social Media Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,8 +48,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+As a Social Media analyst specialized in digital marketing, I have a passion for uncovering hidden patterns and insights within complex datasets. Transform raw information into actionable strategies that drive successful marketing business.
 
-![reviews](../../img/certifacates.jpg)
+![reviews](../../img/roi.gif)
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+Unraveling insights and trends to help businesses optimize their online presence, ROI, reduce the cost and driving impactful marketing decisions that lead to tangible financial gains.
