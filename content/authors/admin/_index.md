@@ -38,7 +38,7 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/icreatesolutions.tech
-- icon: chart-simple
+- icon: chart
   icon_pack: fab
   link: 
 superuser: true
