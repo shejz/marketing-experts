@@ -70,7 +70,7 @@ contact_links = [
   {icon = "x-twitter", icon_pack = "fab", name = "Xplore", link = "https://twitter.com/lalalgorithms"},
   {icon = "facebook", icon_pack = "fab", name = "DM Me", link = "https://www.facebook.com/icreatesolutions.tech"},
   {icon = "instagram", icon_pack = "fab", name = "DM Me", link = "https://www.instagram.com/io_oicreate/"},
-  {icon = "linkedin", icon_pack = "fas", name = "Connect", link = "https://www.linkedin.com/in/shana-jimenez-a5b475195/"},
+  {icon = "chart-pyramid", icon_pack = "fab", name = "Connect", link = "https://www.linkedin.com/in/shana-jimenez-a5b475195/"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 

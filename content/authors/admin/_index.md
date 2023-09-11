@@ -38,7 +38,7 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://www.facebook.com/icreatesolutions.tech
-- icon: linkedin
+- icon: chart-pyramid
   icon_pack: fab
   link: https://www.linkedin.com/in/shana-jimenez-a5b475195/
 superuser: true
