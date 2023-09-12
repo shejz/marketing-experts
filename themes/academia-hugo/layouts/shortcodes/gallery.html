@@ -40,8 +40,8 @@
   {{ range (where $.Page.Params.gallery_item "album" $album) }}
   {{/* Set image path. */}}
   {{ $.Scratch.Set "src" .image }}
-  {{ if gt (len .image) 4 }}
-    {{ if ne "http" (slicestr .image 0 4) }}
+  {{ if gt (len .image) 5 }}
+    {{ if ne "http" (slicestr .image 0 5) }}
       {{ $.Scratch.Set "src" (printf "img/%s" .image | relURL) }}
     {{ end }}
   {{ end }}
